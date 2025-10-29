@@ -2,8 +2,10 @@
 
 Portfolio for Ty Stines - GIT 413
 
-## 🔗 Project Link
-[View Live Project](https://yourprojectlinkhere.com)
+## 🔗 Project Links
+[The Band Camino Project](https://nuggsfan27.github.io/bandcamino/)
+[RunDMV Together Project](https://nuggsfan27.github.io/assignment_4_draft/)
+[Frisbee History Project]()
 
 ---
 
